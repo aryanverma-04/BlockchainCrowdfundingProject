@@ -1,6 +1,6 @@
-```bash See Project: https://verdant-llama-a3893a.netlify.app/
+
+ See Project: https://verdant-llama-a3893a.netlify.app/
  See Transactions: https://goerli.etherscan.io/address/0x19669871680Eecfeabf1e49707fe06e828D288f2
-```
 ## Getting Started
 
 Create a project using this example:
